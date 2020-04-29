@@ -1,3 +1,5 @@
+# David Marieno code
+
 from django.shortcuts import render,redirect
 from .models import Stock
 from django.contrib import messages
